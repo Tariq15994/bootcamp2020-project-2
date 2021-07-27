@@ -1,0 +1,25 @@
+.footNav{
+  position: static;
+}
+.header{
+  
+  padding: 50px 0px 95px 500px ;
+  width: 500px;
+  
+  
+  
+
+}
+.tableContainer{
+  margin-top: 300px;
+  border: 2px solid red;
+  
+
+
+  
+
+}
+.pieChart{
+  align-items:center;
+  justify-content: space-between;
+}
